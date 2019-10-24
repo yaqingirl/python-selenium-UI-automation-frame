@@ -1,0 +1,3 @@
+2019-06-04-10:46:55 Log.py[line:18] WARNING warn message
+2019-06-04-10:46:55 Log.py[line:19] ERROR error message
+2019-06-04-10:46:55 Log.py[line:20] CRITICAL critical message

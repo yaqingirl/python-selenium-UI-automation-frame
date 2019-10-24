@@ -1,0 +1,1 @@
+PageElementLocator.ini文件：分块存放了所有页面的定位符，通过本目录下的VarConfig.py和util包下的ParseConfigruationFile.py文件提供给pageObjects包中的page文件使用
